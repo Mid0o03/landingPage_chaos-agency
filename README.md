@@ -1,20 +1,39 @@
+# CHAOS AGENCY
+
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img src="./chaosAgency.png" width="100%" alt="Project Demo Banner" />
+  
+  <br />
+
+  ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  
 </div>
 
-# Run and deploy your AI Studio app
+<br />
 
-This contains everything you need to run your app locally.
+## ⚡ About The Project
+This project is a vibrant, neo-brutalist portfolio website designed for a creative agency. It showcases services and selected works using bold typography, high-contrast colors, and custom animations for a striking visual impact. Built with a modern React stack, it offers a responsive and memorable user experience.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1d-F9KFnUd1Q83dERrnjgHTPjiGuYflg9
+## ✨ Key Features
+* 🎯 **Neo-Brutalist Design :** Distinctive aesthetic with bold strokes, vibrant colors, and hard shadows.
+* 🚀 **Interactive UI :** Features animated buttons, infinite marquees, and engaging hover effects.
+* 🎨 **Responsive Layout :** Fully adaptable interface optimized for all device sizes using Tailwind CSS.
 
-## Run Locally
+## 🛠️ Built With
+* **Front-end :** React, TypeScript, Vite, Tailwind CSS
+* **Back-end :** N/A (Frontend Only)
 
-**Prerequisites:**  Node.js
+## 🚀 Getting Started
+```bash
+# Clone the repo
+git clone https://github.com/Mid0o03/landingPage_chaos-agency.git
 
+# Install dependencies
+npm install
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+# Run the server
+npm run dev
+```
